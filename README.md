@@ -4,7 +4,7 @@ This project is a **clinic appointment booking website** where patients can book
 When an appointment is booked, the doctor receives an **instant notification through a Telegram bot**.
 
 🌐 Live Website:  
-https://clinic-website-xquo.onrender.com/
+https://sree-venkateshwara-clinic.netlify.app
 
 🤖 Telegram Bot:  
 @VYGIRI_CLINIC_BOT
